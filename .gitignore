@@ -1,0 +1,21 @@
+# The 15 tool repos are re-downloaded by setup-my-computer.sh (keeps this repo small)
+/claude-caption-styles/
+/motion-canvas/
+/manim/
+/ComfyUI/
+/Wan2.1/
+/HunyuanVideo/
+/LTX-Video/
+/sam2/
+/RobustVideoMatting/
+/rembg/
+/Real-ESRGAN/
+/Practical-RIFE/
+/auto-editor/
+/whisperX/
+/MoneyPrinterTurbo/
+.venv/
+__pycache__/
+*.mp4
+client_secret*.json
+token.json

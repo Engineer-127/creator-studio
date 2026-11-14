@@ -1,0 +1,15 @@
+https://github.com/Vibha-Ramprakash/claude-caption-styles
+https://github.com/motion-canvas/motion-canvas
+https://github.com/ManimCommunity/manim
+https://github.com/Comfy-Org/ComfyUI
+https://github.com/Wan-Video/Wan2.1
+https://github.com/Tencent-Hunyuan/HunyuanVideo
+https://github.com/Lightricks/LTX-Video
+https://github.com/facebookresearch/sam2
+https://github.com/PeterL1n/RobustVideoMatting
+https://github.com/danielgatis/rembg
+https://github.com/xinntao/Real-ESRGAN
+https://github.com/hzwer/Practical-RIFE
+https://github.com/WyattBlue/auto-editor
+https://github.com/m-bain/whisperX
+https://github.com/harry0703/MoneyPrinterTurbo;
